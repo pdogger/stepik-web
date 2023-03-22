@@ -1,1 +1,1 @@
-sudo pip3 install --upgrade django==2.1
+sudo pip3 install --upgrade django==2.0
